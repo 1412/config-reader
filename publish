@@ -1,2 +1,2 @@
-git add . && git commit -m "Fix readme.md" && git push
+git add . && git commit && git push
 sudo npm unpublish --force ./ && sudo npm publish ./
