@@ -1,0 +1,50 @@
+{
+  "name": "config-reader",
+  "version": "0.1.0",
+  "description": "HTTP Basic Auth",
+  "author": {
+    "name": "Decky Fx.",
+    "email": "decky.fx@gmail.com",
+    "url": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deckyfx/config-reader.git"
+  },
+  "bugs": {
+    "url": "http://github.com/deckyfx/config-reader/issues"
+  },
+  "main": "./lib",
+  "dependencies": {},
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "scripts": {
+    "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "connect",
+    "express",
+    "header",
+    "rawbuffer"
+  ],
+  "_id": "config-reader@0.1.0",
+  "optionalDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.1.16",
+  "_nodeVersion": "v0.6.15",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "15ff253b8f8b0fe0a3144273ef5c4d0a56b77809"
+  },
+  "_from": "config-reader@0.1.x"
+}
