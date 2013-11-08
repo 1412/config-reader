@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/1412/config-reader.png?label=ready)](https://waffle.io/1412/config-reader)  
 Usage
 =====
 
