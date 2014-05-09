@@ -1,4 +1,4 @@
-jswget
+config-reader
 ===========
 [![NPM version](https://badge.fury.io/js/config-reader.png)](http://badge.fury.io/js/config-reader)
 [![Stories in Ready](https://badge.waffle.io/1412/config-reader.png?label=ready)](http://waffle.io/1412/config-reader)
